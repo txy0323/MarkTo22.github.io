@@ -1,9 +1,9 @@
 # Basic
-title: 马克图
+title: 陶欣钰
 subtitle: 个人博客
 description: 欢迎来到我的个人博客~
 # 头像里面的标题
-avatarTitle: MarkTo22
+avatarTitle: txy0323
 # 头像里面的描述
 avatarDesc: Web / App
 url: "http://baixin.io"
@@ -11,14 +11,14 @@ url: "http://baixin.io"
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: MarkTo22
+    duoshuo: txy0323
 
 # Social
 social:
     weibo: xxx 
-    github: MarkTo22
+    github: txy0323
     # twitter: 
-    mail: stone_hzz@163.com
+    mail: 13438369225@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
